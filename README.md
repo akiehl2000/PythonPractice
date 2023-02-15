@@ -1,6 +1,6 @@
 # Practice Python Notebooks
 
-This is a repository I set up to house mini Python projects I undertake to hone my skills with Python and associated packages like Pandas, Numpy, MatPlotLib, SciKitLearn, TensorFlow, and SciPy. While I have a reasonable level of experience with those skills, I wish to become as comfortable in Python and I am currently in R. I envision that the majority of projects featured here will have a dataset sourced from Kaggle and a reasonably brief anaylsis contained in a Jupyter notebook. 
+This is a repository I set up to house mini Python projects I undertake to hone my skills with Python and associated packages like Pandas, Numpy, plotly, MatPlotLib, SciKitLearn, TensorFlow, and SciPy. While I have a reasonable level of experience with those skills, I wish to become as comfortable in Python and I am currently in R. I envision that the majority of projects featured here will have a dataset sourced from Kaggle and a reasonably brief anaylsis contained in a Jupyter notebook. 
 
 ## Projects
 
