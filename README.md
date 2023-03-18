@@ -4,4 +4,4 @@ This is a repository I set up to house mini Python projects I undertake to hone 
 
 ## Projects
 
-* `Job Placement:` A classification problem asking whether or not job candidates received employment given a set of descriptive metrics. Logistic regression, LDA, KNN, Random Forest, AdaBoost, and SVM model were fit. A random forest model was ultimately selected with a test accuracy of 88.4%.
+* `Job Placement:` A classification problem asking whether or not job candidates received employment given a set of descriptive metrics. Logistic regression, LDA, KNN, Random Forest, AdaBoost, and SVM models were fit. A random forest model was ultimately selected with a test accuracy of 88.4%.
